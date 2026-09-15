@@ -1,2 +1,3 @@
-Four 
+
+FORTY_FOUR    
 4
